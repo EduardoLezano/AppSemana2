@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AplicacionSemana2</string>
+
+    <!-- Hiints -->
+    <string name="hint_til_nombre">Nombre completo</string>
+    <string name="hint_til_telefono">Teléfono</string>
+    <string name="hint_til_email">Email</string>
+    <string name="hint_til_descripcion">Descripción Contacto</string>
+
+    <!-- buttons text -->
+    <string name="btm_siguiente">Siguiente</string>
+    <string name="btm_editar_datos">Editar Datos</string>
+
+    <!-- Text  views-->
+    <string name="titulo_confirm_data">Confirmar datos</string>
+
+</resources>
